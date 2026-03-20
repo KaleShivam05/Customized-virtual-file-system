@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------
+--------------------------Marvellous CVFS Help page---------------------------
+------------------------------------------------------------------------------
+
+Man    : It is used to display manual page
+clear  : It is used to clear the terminal 
+Creat  : It is used to create a file
+Wriet  : it is used to write data into file
+read   : It is used to read the data from the file
+stat   : It is used to display statistical information
+unlink : It is used to delete the file
+exit   : It is used to terminet the Marvellous CVFS
+
+------------------------------------------------------------------------------
