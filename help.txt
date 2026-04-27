@@ -1,14 +1,20 @@
 ------------------------------------------------------------------------------
---------------------------Marvellous CVFS Help page---------------------------
+-------------------------- Marvellous CVFS Help page --------------------------
 ------------------------------------------------------------------------------
 
-Man    : It is used to display manual page
-clear  : It is used to clear the terminal 
-Creat  : It is used to create a file
-Wriet  : it is used to write data into file
-read   : It is used to read the data from the file
-stat   : It is used to display statistical information
-unlink : It is used to delete the file
-exit   : It is used to terminet the Marvellous CVFS
+man     : It is used to display the manual of commands
+clear   : It is used to clear the terminal screen
+create  : It is used to create a new file
+write   : It is used to write data into a file
+read    : It is used to read data from a file
+ls      : It is used to list all files
+stat    : It is used to display file information
+fstat   : It is used to display file information using file descriptor
+truncate: It is used to remove data from file
+open    : It is used to open an existing file
+close   : It is used to close the opened file
+lseek   : It is used to change file offset
+rm      : It is used to delete the file
+exit    : It is used to terminate the Marvellous CVFS
 
 ------------------------------------------------------------------------------
